@@ -1,5 +1,5 @@
 # glogg_tools
-查看项目日志的工具，可打开查看单文件超过2G的文件日志
+查看项目日志的工具，可打开查看单文件超过2G的文件日志。
  
  macOS
 An installer for the latest version is available for Mac OSX / macOS: glogg-latest-installer.dmg
